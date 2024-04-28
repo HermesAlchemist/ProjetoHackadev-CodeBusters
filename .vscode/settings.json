@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "hermesalchemist",
+        "projectKey": "HermesAlchemist_ProjetoHackadev-CodeBusters"
+    }
+}
